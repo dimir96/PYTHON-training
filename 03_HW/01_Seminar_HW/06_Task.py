@@ -8,8 +8,3 @@ def factorial(a):
 n = int(input('Введите число: '))
 k = 2
 print(int(factorial(n+k-1)/(factorial(k)*factorial(n+k-1-k))))
-
-
-
-
-

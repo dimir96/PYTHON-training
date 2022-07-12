@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa48bdec-d406-4e02-80c0-75d996d56493" name="Changes" comment="01 Homework">
-      <change afterPath="$PROJECT_DIR$/02_Seminars/02_Seminar/01_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/02_Seminar/02_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/02_Seminar/03_Task.py" afterDir="false" />
+    <list default="true" id="aa48bdec-d406-4e02-80c0-75d996d56493" name="Changes" comment="02 Semiar">
+      <change afterPath="$PROJECT_DIR$/03_HW/02_Seminar_HW/01_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/02_Seminar_HW/02_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/02_Seminar_HW/03_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/02_Seminar_HW/04_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_HW/01_Seminar_HW/02_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_HW/01_Seminar_HW/02_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_HW/01_Seminar_HW/06_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_HW/01_Seminar_HW/06_Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +59,8 @@
     "last_opened_file_path": "/Users/dimir96/Dropbox/!!!_GEEKBRAINS/Знакомство с языком Pyton/python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.02_Task (1)">
-    <configuration name="01_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.03_Task (1)">
+    <configuration name="01_Task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Seminars/02_Seminar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/02_Seminar_HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Seminars/02_Seminar/01_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/02_Seminar_HW/01_Task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_Task (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +110,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Seminars/02_Seminar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/02_Seminar_HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Seminars/02_Seminar/02_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/02_Seminar_HW/02_Task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_Task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/02_Seminar_HW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/02_Seminar_HW/03_Task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,34 +165,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_Task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/01_Seminar_HW" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/01_Seminar_HW/06_Task.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_Task (1)" />
+        <item itemvalue="Python.02_Task (2)" />
+        <item itemvalue="Python.01_Task (1)" />
         <item itemvalue="Python.02_Task (1)" />
         <item itemvalue="Python.03_Task" />
-        <item itemvalue="Python.02_Task" />
-        <item itemvalue="Python.01_Task" />
-        <item itemvalue="Python.06_Task (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657474936005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="02 Semiar">
+      <created>1657636511639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657636511639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +221,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01 Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="01 Homework" />
+    <MESSAGE value="02 Semiar" />
+    <option name="LAST_COMMIT_MESSAGE" value="02 Semiar" />
   </component>
 </project>
