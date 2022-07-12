@@ -1,6 +1,6 @@
 def factorial(a):
     x = 1
-    for i in range(1, a+1):
+    for i in range(a):
         x = x * i
     return x
 
