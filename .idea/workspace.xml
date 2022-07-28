@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa48bdec-d406-4e02-80c0-75d996d56493" name="Changes" comment="02 Semiar">
-      <change afterPath="$PROJECT_DIR$/01_Lections/03_Lection/03_Lec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/03_Lection/03_Lec_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/03_Lection/03_Lec_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/05_Seminar/01_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/05_Seminar/02_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/05_Seminar/03_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/05_Seminar/1T.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_HW/05_Seminar_HW/01_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_HW/05_Seminar_HW/02_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_HW/05_Seminar_HW/02_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_HW/05_Seminar_HW/02_Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +62,7 @@
       <recent name="$PROJECT_DIR$/03_HW/04_Seminar_HW" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_Task (1)">
+  <component name="RunManager" selected="Python.03_Task (1)">
     <configuration name="01_Task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_Task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Seminars/05_Seminar" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/05_Seminar_HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Seminars/05_Seminar/02_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_Task (1)" />
         <item itemvalue="Python.02_Task (1)" />
         <item itemvalue="Python.01_Task (2)" />
         <item itemvalue="Python.01_Task (1)" />
         <item itemvalue="Python.03_Task" />
-        <item itemvalue="Python.02_Task" />
       </list>
     </recent_temporary>
   </component>
@@ -337,6 +330,31 @@
           <url>file://$PROJECT_DIR$/02_Seminars/05_Seminar/02_Task.py</url>
           <line>12</line>
           <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
