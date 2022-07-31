@@ -33,17 +33,14 @@ def unpack(string):
         if string[i] != "#":
             result += string[i]
         if string[i] == "#":
-            counter = 0
-            while counter <= ord(string[i + 1]):
-                result += string[i + 2]
-                counter += 1
+            result += string[i + 2]* (ord(string[i + 1])+1)
             i += 2
 
         i += 1
     return result
 
 
-stroka = 'Priveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet,I 111 wait you here toooooooooooooooooooooooooooooooooooo looooooooooooooooooooooooooooong'
+stroka = 'Priveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeet,I 111 wait you here toooooooooooooooooooooooooooooooooooo looooooooooooooooooooooooooooong'
 print(stroka)
 a = archive(stroka)
 print(a)

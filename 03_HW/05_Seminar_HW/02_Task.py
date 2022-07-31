@@ -94,6 +94,7 @@ if count > 9 and not win_check:
     print('Ничья. Попробуйте сыграть еще раз.')
 
 if flag:
+if flag:
     print('Ура, победили крестики!!!')
 else:
     print('Ура, победили нолики!!!')
