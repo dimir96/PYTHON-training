@@ -5,36 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa48bdec-d406-4e02-80c0-75d996d56493" name="Changes" comment="02 Semiar">
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/01_Task/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/01_Task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/01_Task/model_mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/01_Task/model_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/01_Task/view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/data_provider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/html_creator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/log.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/new_data.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/new_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/user_interface.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Lections/04_Lection/02_Task/xml_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/06_Seminar/01_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/07_Seminar/01_Calculator/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/07_Seminar/01_Calculator/log.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/07_Seminar/01_Calculator/loger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/07_Seminar/01_Calculator/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/07_Seminar/01_Calculator/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/07_Seminar/01_Calculator/view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Seminars/07_Seminar/01_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_HW/06_Seminar_HW/01_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_HW/06_Seminar_HW/02_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_HW/06_Seminar_HW/03_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_HW/06_Seminar_HW/04_Task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_HW/06_Seminar_HW/05_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_Lections/05_Lection/01_Lec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Seminars/08_Seminar/01_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Seminars/08_Seminar/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Seminars/08_Seminar/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/exporter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/user_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/08_Seminar_HW/01_Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/08_Seminar_HW/childrens.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_HW/08_Seminar_HW/parents.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_HW/05_Seminar_HW/02_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_HW/05_Seminar_HW/02_Task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_HW/05_Seminar_HW/03_Task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_HW/06_Seminar_HW/05_Task.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_HW/06_Seminar_HW/05_Task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,16 +61,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/dimir96/Dropbox/!!!_GEEKBRAINS/Знакомство с языком Pyton/Python/01_Lections/04_Lection"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dimir96/Dropbox/!!!_GEEKBRAINS/Знакомство с языком Pyton/Python/03_HW/08_Seminar_HW&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03_HW/08_Seminar_HW" />
       <recent name="$PROJECT_DIR$/01_Lections/04_Lection" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -94,8 +80,8 @@
       <recent name="$PROJECT_DIR$/03_HW/04_Seminar_HW" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_Task">
-    <configuration name="01_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/06_Seminar/01_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/06_Seminar_HW" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/06_Seminar_HW/02_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/06_Seminar_HW" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/06_Seminar_HW/03_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/06_Seminar_HW" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/06_Seminar_HW/04_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/ui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_Task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="user_interface" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/06_Seminar_HW" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/06_Seminar_HW/05_Task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/user_interface.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05_Task" />
-        <item itemvalue="Python.04_Task" />
-        <item itemvalue="Python.03_Task" />
-        <item itemvalue="Python.02_Task" />
-        <item itemvalue="Python.01_Task (1)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.user_interface" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.ui" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +353,56 @@
           <url>file://$PROJECT_DIR$/03_HW/06_Seminar_HW/01_Task.py</url>
           <line>2</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/08_Seminar_HW/01_Task.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/08_Seminar_HW/01_Task.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/08_Seminar_HW/01_Task.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/08_Seminar_HW/01_Task.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/08_Seminar_HW/01_Task.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/user_interface.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/generator.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/generator.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/generator.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_HW/07_Seminar_HW/01_Task/generator.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
